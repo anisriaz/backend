@@ -1,0 +1,4 @@
+// config.js
+const port = 3001;
+
+module.exports = port;
